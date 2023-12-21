@@ -6,8 +6,8 @@ Separate sets of instructions have been given for common features and page-speci
 ## Common instructions:
 1. Each page must have three sections generated using div tags:
   1. Header section with links to other pages
-  2. Main section with the main content
-  3. Footer section with your name, batch, copyright, year
+  3. Main section with the main content
+  4. Footer section with your name, batch, copyright, year
 2. For each webpage, you must create one HTML page. The name of the HTML file for each page is given below:
   1.index.html
   2. academics.html

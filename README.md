@@ -4,16 +4,16 @@ A Student website consisting of HTML pages.
 Separate sets of instructions have been given for common features and page-specific features. First, we'd like to list below some general instructions that you need to follow while submitting your solution.
 
 ## Common instructions:
-• Each page must have three sections generated using div tags:
-  1. Header section with links to other pages
-  2. Main section with the main content
-  3. Footer section with your name, batch, copyright, year
-• For each webpage, you must create one HTML page. The name of the HTML file for each page is given below:
-  1. index.html
-  2. academics.html
-  3. personal.html
-  4. contact.html
-  5. resume.html
+1. Each page must have three sections generated using div tags:
+  => Header section with links to other pages
+  => Main section with the main content
+  => Footer section with your name, batch, copyright, year
+2. For each webpage, you must create one HTML page. The name of the HTML file for each page is given below:
+  => index.html
+  => academics.html
+  => personal.html
+  => contact.html
+  => resume.html
 
 ## Page-specific instructions:
 ### 1. Home Page:

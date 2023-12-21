@@ -1,7 +1,7 @@
 # Student Application
 A Student website consisting of HTML pages. 
 
-Separate sets of instructions have been given for common features and page-specific features.
+Set of common features and page-specific features that were followed in developing the application are given below.
 
 ## Common instructions
 ### Each page must have three sections generated using div tags:

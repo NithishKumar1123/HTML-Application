@@ -1,4 +1,4 @@
-# HTML-Application
+# Student Application
 A Student website consisting of HTML pages. 
 
 Separate sets of instructions have been given for common features and page-specific features.

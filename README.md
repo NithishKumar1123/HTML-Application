@@ -1,4 +1,4 @@
-# Student Application
+# Student Platform Application
 A Student website consisting of HTML pages. 
 
 Set of common features and page-specific features that were followed in developing the application are given below.
